@@ -1,0 +1,15 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "run main":" go run basic.go",
+    "run console":"go run console.go",
+    "run strings":"go run strings.go",
+    "run math":"go run math.go",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Dickinson",
+  "license": "ISC"
+}
