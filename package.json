@@ -9,6 +9,8 @@
     "run strings":"go run strings.go",
     "run math":"go run math.go",
     "run time":"go run time.go",
+    "run pointers":"go run pointers.go",
+    "run array":"go run array.go",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Andrew Dickinson",
